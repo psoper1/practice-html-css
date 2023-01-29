@@ -56,12 +56,12 @@ body > * {
 }
 
 main, header, nav, article, aside, footer, section {
-    background-color: rgbs(0,255,204);
+    background-color: rgba(0,255,204);
     padding: 1%;
 }
 
 h1 {
-    flex 5;
+    flex: 5;
     text-transform: uppercase;
 }
 
